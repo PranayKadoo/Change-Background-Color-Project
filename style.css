@@ -1,0 +1,20 @@
+#container{
+    text-align: center;
+    display: block;
+    color: red;
+height: 100vw;
+width: auto;
+}
+#colorbutton{
+  position:absolute;  
+  top:50vw;
+  left:43%;
+  left:43%;
+  padding: 2vw;
+  font-size: 2vw;
+  font-family: "papyrus";
+  background-color: maroon;
+  opacity: 0.5;
+  cursor: pointer;
+  color: aliceblue;
+}
